@@ -21,13 +21,14 @@
 	<a href="galeria/9/11.JPG" rel="prettyPhoto[gallery1]" title="Mercedes"><img src="galeria/9/m/m11.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
 	<a href="galeria/9/12.JPG" rel="prettyPhoto[gallery1]" title="Mercedes"><img src="galeria/9/m/m12.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
 	<a href="galeria/9/13.JPG" rel="prettyPhoto[gallery1]" title="Mercedes"><img src="galeria/9/m/m13.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
-	<a href="galeria/9/14.JPG" rel="prettyPhoto[gallery1]" title="Mercedes"><img src="galeria/9/m/m14.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
 	<a href="galeria/9/15.JPG" rel="prettyPhoto[gallery1]" title="Mercedes"><img src="galeria/9/m/m15.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
 	<a href="galeria/9/16.JPG" rel="prettyPhoto[gallery1]" title="Mercedes"><img src="galeria/9/m/m16.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
 	<a href="galeria/9/17.JPG" rel="prettyPhoto[gallery1]" title="Mercedes"><img src="galeria/9/m/m17.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
 	<a href="galeria/9/18.JPG" rel="prettyPhoto[gallery1]" title="Mercedes"><img src="galeria/9/m/m18.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
 	<a href="galeria/9/19.JPG" rel="prettyPhoto[gallery1]" title="Mercedes"><img src="galeria/9/m/m19.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
 	<a href="galeria/9/20.JPG" rel="prettyPhoto[gallery1]" title="Mercedes"><img src="galeria/9/m/m20.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
+	<a href="galeria/9/31.JPG" rel="prettyPhoto[gallery1]" title="Mercedes"><img src="galeria/9/m/m31.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
+  <a href="galeria/9/32.JPG" rel="prettyPhoto[gallery1]" title="Mercedes"><img src="galeria/9/m/m32.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
 	<a></a>
   </div>
 <div class="pojazdy2">
