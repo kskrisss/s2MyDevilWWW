@@ -30,11 +30,11 @@
 <p><a href="index.php?id=mercedes3" class="aframe">zobacz zdjęcia</a></p></div><div class="clear"></div>
 
   <p><strong>Ford Transit 22 + 2</strong></p>
-<div class="frame"><div class="pojazdy"><a href="index.php?id=mercedes3" title="wynajem autokaów - Ford Transit"><img src="galeria/10/m/m01.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a></div>......................................................................................................................</i>
+<div class="frame"><div class="pojazdy"><a href="index.php?id=fordtransit" title="wynajem autokaów - Ford Transit"><img src="galeria/10/m/m01.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a></div>......................................................................................................................</i>
 <p><a href="index.php?id=fordtransit" class="aframe">zobacz zdjęcia</a></p></div><div class="clear"></div>
 
-  <p><strong>Wolkswagen 22 + 2</strong></p>
-<div class="frame"><div class="pojazdy"><a href="index.php?id=mercedes3" title="wynajem autokaów - Ford Transit"><img src="galeria/11/m/m01.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a></div>......................................................................................................................</i>
+  <p><strong>Volkswagen 22 + 2</strong></p>
+<div class="frame"><div class="pojazdy"><a href="index.php?id=volkswagen" title="wynajem autokaów - Ford Transit"><img src="galeria/11/m/m01.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a></div>......................................................................................................................</i>
 <p><a href="index.php?id=wolkswagen" class="aframe">zobacz zdjęcia</a></p></div><div class="clear"></div>
 
 
