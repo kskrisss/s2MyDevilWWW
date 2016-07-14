@@ -9,10 +9,10 @@
   <li>Europejski Standard Emisji Spalin - Euro VI,</li>
 </ul>
 <div class="pojazdy">
-	<a href="galeria/10/01.jpg" rel="prettyPhoto[gallery1]" title="Ford Transit"><img src="galeria/10/m/m01.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
-	<a href="galeria/10/02.jpg" rel="prettyPhoto[gallery1]" title="Ford Transit"><img src="galeria/10/m/m02.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
-	<a href="galeria/10/03.jpg" rel="prettyPhoto[gallery1]" title="Ford Transit"><img src="galeria/10/m/m03.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
-	<a href="galeria/10/04.jpg" rel="prettyPhoto[gallery1]" title="Ford Transit"><img src="galeria/10/m/m04.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
+	<a href="galeria/10/01.JPG" rel="prettyPhoto[gallery1]" title="Ford Transit"><img src="galeria/10/m/m01.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
+	<a href="galeria/10/02.JPG" rel="prettyPhoto[gallery1]" title="Ford Transit"><img src="galeria/10/m/m02.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
+	<a href="galeria/10/03.JPG" rel="prettyPhoto[gallery1]" title="Ford Transit"><img src="galeria/10/m/m03.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
+	<a href="galeria/10/04.JPG" rel="prettyPhoto[gallery1]" title="Ford Transit"><img src="galeria/10/m/m04.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
 	<a href="galeria/10/05.JPG" rel="prettyPhoto[gallery1]" title="Ford Transit"><img src="galeria/10/m/m05.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
 	<a href="galeria/10/06.JPG" rel="prettyPhoto[gallery1]" title="Ford Transit"><img src="galeria/10/m/m06.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
 	<a href="galeria/10/07.JPG" rel="prettyPhoto[gallery1]" title="Ford Transit"><img src="galeria/10/m/m07.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
@@ -37,7 +37,7 @@
 <div id="gallery">
   <ul>
   <li><a href="galeria/9/01.JPG" rel="prettyPhoto[gallery1]"><img src="galeria/9/m/m01.JPG" alt="" /></a></li>
-  <li><a href="galeria/10/01.JPG" rel="prettyPhoto[gallery1]"><img src="galeria/10/m/m01.JPG" alt="" /></a></li>
+  <li><a href="galeria/10/01.JPG" rel="prettyPhoto[gallery1]"><img src="galeria/10/m/m01.JPG" alt="mercedes3.php" /></a></li>
   <li><a href="galeria/11/01.JPG" rel="prettyPhoto[gallery1]"><img src="galeria/11/m/m01.JPG" alt="" /></a></li>
   </ul>
 </div>
