@@ -171,7 +171,7 @@
     if($_GET['id']=="fordtransit"){
     include("dane/fordtransit.php");
   }
-    if($_GET['id']=="wolkswagen"){
+    if($_GET['id']=="volkswagen"){
     include("dane/wolkswagen.php");
   }
     ?>
