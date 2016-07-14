@@ -37,7 +37,7 @@
 					<iframe width="550" height="314" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.pl/maps?f=q&amp;source=embed&amp;hl=pl&amp;geocode=&amp;q=Wincentego+Witosa+16,+Trzcianka&amp;aq=0&amp;oq=Wincentego+Witosa+16,+Trz&amp;sll=51.109119,19.920483&amp;sspn=3.800587,9.876709&amp;ie=UTF8&amp;hq=&amp;hnear=Wincentego+Witosa+16,+64-980+Trzcianka,+czarnkowsko-trzcianecki,+wielkopolskie&amp;t=p&amp;layer=c&amp;cbll=53.039998,16.44135&amp;panoid=z8AA5ASiecYNQxmFTM1q3w&amp;cbp=13,323.14,,0,-5.03&amp;ll=53.035343,16.441383&amp;spn=0.016206,0.047207&amp;z=14&amp;output=svembed"></iframe><br />
 					<br>
 </div>
-</div>
+
 <div class="clear"></div><br>
 <div class="ng"><h1 >Nasze pojazdy</h1></div>
 <div id="gallery">

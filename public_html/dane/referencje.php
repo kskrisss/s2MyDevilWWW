@@ -7,7 +7,6 @@
 <br>Posiadamy niezbędne uprawnienia jakimi są Certyfikat Kompetencji Zawodowych w Międzynarodowym Transporcie Drogowym Osób oraz Licencję na Wykonywanie Krajowego i Międzynarodowego Przewozu Osób.
 </div>
 <br>
-</div>
 <div class="clear"></div><br>
 <div class="ng"><h1 >Nasze pojazdy</h1></div>
 <div id="gallery">

@@ -21,7 +21,7 @@
 								<a href="galeria/7/09.JPG" rel="prettyPhoto[gallery1]" title="DAF SB3000"><img src="galeria/7/m/m09.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
 
           </div>
-</div>
+
 <div class="clear"></div><br>
 <div class="ng"><h1 >Nasze pojazdy</h1></div>
 <div id="gallery">

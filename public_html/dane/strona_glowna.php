@@ -8,7 +8,6 @@
 </div>
 <br>
 
-</div>
 <div class="clear"></div><br>
 <div class="ng"><h1 >Nasze pojazdy</h1></div>
 <div id="gallery">
