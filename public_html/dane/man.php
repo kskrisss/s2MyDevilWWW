@@ -14,8 +14,6 @@
 								<a href="galeria/6/05.JPG" rel="prettyPhoto[gallery1]" title="MAN"><img src="galeria/6/m/m05.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
 								<a href="galeria/6/06.JPG" rel="prettyPhoto[gallery1]" title="MAN"><img src="galeria/6/m/m06.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
           </div>
-
-</div>
 <div class="clear"></div><br>
 <div class="ng"><h1 >Nasze pojazdy</h1></div>
 <div id="gallery">

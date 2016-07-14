@@ -19,7 +19,6 @@
 								<a href="galeria/3/07.JPG" rel="prettyPhoto[gallery1]" title="Setra"><img src="galeria/3/m/m07.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
           </div>
 
-</div>
 <div class="clear"></div><br>
 <div class="ng"><h1 >Nasze pojazdy</h1></div>
 <div id="gallery">

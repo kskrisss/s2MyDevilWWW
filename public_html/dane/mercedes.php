@@ -17,8 +17,6 @@
 								<a href="galeria/5/09.JPG" rel="prettyPhoto[gallery1]" title="Mercedes 609"><img src="galeria/5/m/m09.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a>
 
           </div>
-
-</div>
 <div class="clear"></div><br>
 <div class="ng"><h1 >Nasze pojazdy</h1></div>
 <div id="gallery">
