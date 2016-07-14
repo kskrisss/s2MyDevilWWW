@@ -168,6 +168,12 @@
 		if($_GET['id']=="sitemap"){
 		include("dane/sitemap.php");
 	}
+    if($_GET['id']=="fordtransit"){
+    include("dane/fordtransit.php");
+  }
+    if($_GET['id']=="wolkswagen"){
+    include("dane/wolkswagen.php");
+  }
 		?>
 
 
