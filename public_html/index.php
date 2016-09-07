@@ -93,10 +93,10 @@
       <div class="mtxt" style="padding-top:3px; font-size:25px;">Telefon/fax:</div>
       <div class="mtxt" style="padding-top:0.1px; font-size:30px; font-weight:bold; color: #575757;">+48 67 2165-932</div>
       <div class="mtxt" style="padding-top:6px; font-size:25px;">Email:</div>
-      <div class="mtxt" style="padding-top:0.1px; font-size:22px; font-weight:bold;"><a href="mailto:biuro@mkkruger.pl">biuro@mkkruger.pl</a></div>
+      <div class="mtxt" style="padding-top:0.1px; font-size:22px; font-weight:bold;"><a href="mailto:mkkruger@wp.pl">mkkruger@wp.pl</a></div>
             <div class="mtxt" style="padding-top:10px; font-size:25px;">
       Jesteś zinteresowany wynajmem autokaru?
-      <br/>Skontaktuj się z nami telefonicznie lub poprzez <a href="mailto:biuro@mkkruger.pl">email</a>.
+      <br/>Skontaktuj się z nami telefonicznie lub poprzez <a href="mailto:mkkruger@wp.pl">email</a>.
 
 
 

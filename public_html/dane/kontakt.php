@@ -23,9 +23,6 @@
 
 				<br />
 
-
-				<b>E-Mail: <a href="mailto:biuro@mkkruger.pl">biuro@mkkruger.pl</a></b>
-				<br></br>
 				<b>E-Mail: <a href="mailto:mkkruger@wp.pl">mkkruger@wp.pl</a></b>
 
 
