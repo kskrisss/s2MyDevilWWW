@@ -172,7 +172,7 @@
     include("dane/fordtransit.php");
   }
     if($_GET['id']=="volkswagen"){
-    include("dane/wolkswagen.php");
+    include("dane/volkswagen.php");
   }
     ?>
 

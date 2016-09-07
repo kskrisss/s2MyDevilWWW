@@ -1,6 +1,6 @@
-<div class="ng"><h1 >Wolkswagen 8 + 1</h1></div>
+<div class="ng"><h1 >Volkswagen 8 + 1</h1></div>
 <ul>
-  <li>8 miejsca + kierowca,</li>
+  <li>8 miejsc + kierowca,</li>
   <li>klimatyzacja,</li>
   <li>ogrzewanie postojowe,</li>
   <li>pasy bezpieczeństwa,</li>

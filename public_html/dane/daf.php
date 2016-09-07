@@ -3,7 +3,7 @@
     <ul>
       <li>51 miejsca + kierowca + pilot,</li>
 
-<li>Autokar jest wyposażony w klimatyzacje, ogrzewanie postojowe, fotele rozkładane, WC, TV, DVD, CD, MP3, lodówkę</li>
+<li>Autokar jest wyposażony w klimatyzację, ogrzewanie postojowe, fotele rozkładane, WC, TV, DVD, CD, MP3, lodówkę</li>
 <li>Europejski Standard Emisji Spalin - Euro V</li>
 
 
