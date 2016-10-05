@@ -14,13 +14,13 @@ body {
 
 }
 .style27{
-		font-family:Arial, Helvetica, sans-serif; 
+		font-family:Arial, Helvetica, sans-serif;
 		font-size:1.3em;
 		}
 .mtxt{
 		font-family:Monotype Corsiva;
 		color:#E082AA;
-		padding:2px 20px; 
+		padding:2px 20px;
 		}
 .bg2 {
 	position:absolute;
@@ -65,12 +65,12 @@ body {
 	font-size:24px;
 	text-decoration:none;
 	display:inline-block;
-	color:#E082AA; 
-	background:url(../images/ma1.jpg) no-repeat left center; 
+	color:#E082AA;
+	background:url(../images/ma1.jpg) no-repeat left center;
 	padding:0px 20px 0px 30px;
 }
 .menu a:hover{
-	color:#FFC20B; 
+	color:#FFC20B;
 	background:url(../images/ma2.jpg) no-repeat left center;
 }
 .animacja {
@@ -85,15 +85,15 @@ body {
 }
 .tools ul{
 	list-style:none;
-	margin:0; 
-	padding:0; 
+	margin:0;
+	padding:0;
 }
-.tools li{ float:left; } 
-.tools a{ display:inline-block; 
-	background:url(../images/mt.png) no-repeat left center; 
-	font-size:11px; 
-	color:#FFC20B; 
-	padding:5px 20px; 
+.tools li{ float:left; }
+.tools a{ display:inline-block;
+	background:url(../images/mt.png) no-repeat left center;
+	font-size:11px;
+	color:#FFC20B;
+	padding:5px 20px;
 	text-decoration:none;
 }
 .tools a:hover{ color:#fff; }
@@ -107,25 +107,25 @@ body {
 	height:84px;
 }
 .f div{
-	font-size:12px; 
+	font-size:12px;
 	color:#666;
-	text-align:center; 
+	text-align:center;
 	padding-top:28px;
 	}
-	
+
 .ng{
-	
+
 	background:url(../images/ng2.gif) no-repeat right center ;
 	display:inline-block;
 }
 .ng h1{
 	background:url(../images/ng1.gif) no-repeat  left center;
-	display:inline-block; 
+	display:inline-block;
 	font-family:Monotype Corsiva;
-	margin:0; 
+	margin:0;
 	padding:0;
-	font-size:30px; 
-	font-weight:normal; 
+	font-size:30px;
+	font-weight:normal;
 	padding:20px 40px;
 	color:#575757;
 }
@@ -147,13 +147,13 @@ body {
 .pojazdy2 a:hover { display:block; width:125px; height:162px;  background: #FFC20B; border:2px solid #E081FF; padding:0;float:left;margin:4px;}
 .pojazdy2 a  img {padding: 6px;}
 #oferta{
-	padding:5px; 
+	padding:5px;
 }
 #oferta ul{ list-style:none; margin:0;  padding:0; }
 #oferta li{padding:10px 0px; display:block;}
 #oferta a{
-	display:block; 
-	padding:8px; 
+	display:block;
+	padding:8px;
 	background:#fff;
 	text-align:center;
 	text-decoration:none;
@@ -163,24 +163,24 @@ body {
 	border-radius: 6px;
 }
 #oferta a span{
-	display:block; 
-	padding-top:5px; 
+	display:block;
+	padding-top:5px;
 	font-size:12px;
-	
+
 }
 
 #gallery {
-	
+
 		padding: 10px 0px;
-		
+
 	}
 #gallery ul { list-style: none; margin:0; padding:0px 0px 0px 10px; }
 #gallery ul li { display: inline-block; padding: 10px 10px ;  }
-#gallery  ul li a{ padding:5px; background:#fff; text-decoration:none; display:inline-block; 
-	
+#gallery  ul li a{ padding:5px; background:#fff; text-decoration:none; display:inline-block;
+
 	 box-shadow:  1px 1px 2px #888;
-	
-	 }	
+
+	 }
 img{border:0; }
 
 .left {
@@ -197,8 +197,8 @@ img{border:0; }
 	padding-left:30px;
 	margin:10px 0px;
 	border-left:2px solid #D7D7D7;
-	color:#575757; 
-	font-size:12px; 
+	color:#575757;
+	font-size:12px;
 	line-height:18px;
 	min-height:500px;
 }

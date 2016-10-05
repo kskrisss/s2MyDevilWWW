@@ -4,7 +4,14 @@
 	<p align='justify'>	<b>N</b>asza firma świadczy profesjonalne usługi w zakresie wynajmu autokarów na terenie Polski jak i zagranicy. Posiadamy kilkuletnie doświadczenie w branży przewozu osób oraz wynajmu autokarów. Dysponujemy wszystkimi niezbędnymi zezwoleniami oraz certyfikatami kompetencji zawodowych. Zapewniamy przejazdy komfortowym taborem autobusowym przystosowanym do wyjazdów w kraju i zagranicą. Zatrudnieni przez nas kierowcy z dużym stażem i doświadczeniem zapewniają spokojną i bezpieczną jazdę.
 	<br>
 	<br> Do każdego klienta podchodzimy indywidualnie i z należytą uwagą, co pozwala nam zaproponować najlepszą ofertę.
-	</p>
+	<br>
+  <br><b>Aktualna oferta:</b>
+
+  <li><a href="oferta/2016-1.jpg" rel="prettyPhoto[gallery1]"><img src="oferta/m2016-1.jpg" alt="" /></a></li>
+
+
+
+  </p>
 </div>
 <br>
 
