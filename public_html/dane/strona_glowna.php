@@ -5,13 +5,9 @@
 	<br>
 	<br> Do każdego klienta podchodzimy indywidualnie i z należytą uwagą, co pozwala nam zaproponować najlepszą ofertę.
 	<br>
-  <br><b>Aktualna oferta:</b>
-
-  <li><a href="oferta/2016-1.JPG" rel="prettyPhoto[gallery1]"><img src="oferta/m2016-1.JPG" alt="" /></a></li>
-
-
-
   </p>
+  <br><b>Aktualna oferta:</b>
+<p align='center'><a href="oferta/2016-1.JPG" rel="prettyPhoto[gallery1]"><img src="oferta/m2016-1.JPG" alt="" /></a></p>
 </div>
 <br>
 
