@@ -7,7 +7,7 @@
 	<br>
   </p>
   <br><b>Aktualna oferta:</b>
-<p align='center'><a href="oferta/2016-1.jpg" rel="prettyPhoto[gallery1]"><img src="oferta/m2016-1.JPG" alt="" /></a></p>
+###<p align='center'><a href="oferta/2016-1.jpg" rel="prettyPhoto[gallery1]"><img src="oferta/m2016-1.JPG" alt="" /></a></p>
 </div>
 <br>
 
