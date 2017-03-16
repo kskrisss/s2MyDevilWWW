@@ -32,6 +32,5 @@
   <ul>
   <li><a href="galeria/9/01.JPG" rel="prettyPhoto[gallery1]"><img src="galeria/9/m/m01.JPG" alt="" /></a></li>
   <li><a href="galeria/10/01.JPG" rel="prettyPhoto[gallery1]"><img src="galeria/10/m/m01.JPG" alt="" /></a></li>
-  <li><a href="galeria/11/01.JPG" rel="prettyPhoto[gallery1]"><img src="galeria/11/m/m01.JPG" alt="" /></a></li>
   </ul>
 </div>

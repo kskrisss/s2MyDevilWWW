@@ -33,8 +33,5 @@
 <div class="frame"><div class="pojazdy"><a href="index.php?id=fordtransit" title="wynajem autokaów - Ford Transit"><img src="galeria/10/m/m01.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a></div>18 miejsca + kierowca, klimatyzacja, ogrzewanie postojowe, pasy bezpieczeństwa, Siedzenia rozsuwane i rozkładane, DVD, CD, MP3, Europejski Standard Emisji Spalin - Euro VI</i>
 <p><a href="index.php?id=fordtransit" class="aframe">zobacz zdjęcia</a></p></div><div class="clear"></div>
 
-  <p><strong>Volkswagen 8 + 1</strong></p>
-<div class="frame"><div class="pojazdy"><a href="index.php?id=volkswagen" title="wynajem autokaów - Ford Transit"><img src="galeria/11/m/m01.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a></div>8 miejsc + kierowca, klimatyzacja, ogrzewanie postojowe, pasy bezpieczeństwa, CD, MP3, Europejski Standard Emisji Spalin - Euro V</i>
-<p><a href="index.php?id=wolkswagen" class="aframe">zobacz zdjęcia</a></p></div><div class="clear"></div>
 
 
