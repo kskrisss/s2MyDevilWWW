@@ -9,9 +9,9 @@
 <div class="frame"><div class="pojazdy"><a href="index.php?id=daf" title="wynajem autokaów - DAF"><img src="galeria/7/m/m01.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a></div> 51 miejsca + kierowca + pilot. Autokar jest wyposażony w klimatyzację, ogrzewanie postojowe, fotele rozkładane, WC, TV, DVD, CD, MP3, lodówkę. Europejski Standard Emisji Spalin - Euro V</i>
 <p><a href="index.php?id=daf" class="aframe">zobacz zdjęcia</a></p></div><div class="clear"></div>
 
-  <p><strong>Vanhool 53 + 2</strong></p>
-<div class="frame"><div class="pojazdy"><a href="index.php?id=Vanhool2" title="wynajem autokaów - Vanhool"><img src="galeria/2/m/m01.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a></div> 53 miejsca + kierowca + pilot. Autobus wyposażony jest w TV, DVD, CD, MP3 oraz lodówkę </i>
-<p><a href="index.php?id=Vanhool2" class="aframe">zobacz zdjęcia</a></p></div><div class="clear"></div>
+  <p><strong>Man 57 + 2</strong></p>
+<div class="frame"><div class="pojazdy"><a href="index.php?id=man57" title="wynajem autokaów - Vanhool"><img src="galeria/2/m/m01.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a></div> 57 miejsca + kierowca + pilot. Autobus wyposażony jest w TV, DVD, CD, MP3, lodówkę oraz pasy bezpieczenstwa. Europejski Standard Emisji Spalin - Euro IV </i>
+<p><a href="index.php?id=man57" class="aframe">zobacz zdjęcia</a></p></div><div class="clear"></div>
 
   <p><strong>Man</strong></p>
 <div class="frame"><div class="pojazdy"><a href="index.php?id=man" title="wynajem autokaów - Man"><img src="galeria/6/m/m01.JPG" alt="Wynajem autokarów, transport osobowy Trzcianka" /></a></div> 30 miejsc + kierowca. Autobus wyposażony jest w TV, DVD, CD, MP3 oraz posiada klimatyzację</i>

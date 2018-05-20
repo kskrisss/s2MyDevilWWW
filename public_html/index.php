@@ -159,6 +159,9 @@
     if($_GET['id']=="man54"){
     include("dane/man54.php");
   }
+    if($_GET['id']=="man57"){
+    include("dane/man57.php");
+  }
     if($_GET['id']=="mercedes3"){
     include("dane/mercedes3.php");
   }
